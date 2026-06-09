@@ -1,0 +1,7 @@
+downloads/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+go-yt-downloader
